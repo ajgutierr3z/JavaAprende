@@ -1,0 +1,14 @@
+public class MyClass {
+    public static void main(String args[]) {
+      int a=19;
+      int b=17;
+      int c=21;
+      int d=9;
+      int e=12;
+      int f=7;
+      int p=a+b+c+d+e+f;
+       int k=p/6;
+     
+      System.out.println("promedio es igual = " + k);
+    }
+}

@@ -1,0 +1,15 @@
+public class MyClass {
+    public static void main(String args[]) {
+     int a=2;
+     int b=2;
+     int s=a+b;
+     int r=a-b;
+     int m=a*b;
+     int d=a/b;
+
+     System.out.println("Suma = " + s);
+      System.out.println("Resta = " + r);
+      System.out.println("Multiplicaion = " + m);
+        System.out.println("Division = " + d);
+        }
+}
