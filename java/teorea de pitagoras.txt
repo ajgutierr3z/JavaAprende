@@ -1,0 +1,8 @@
+public class MyClass {
+ public static void main(String[] args) throws Exception {
+    System.out.println("escriba los catetos a y b");
+     int numero = 75;
+     double resultado = Math.sqrt(numero);
+    System.out.println("La hipotenusa" + numero + " es " + resultado);
+    }
+    }
