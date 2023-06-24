@@ -1,0 +1,12 @@
+public class MyClass {
+    public static void main(String args[]) {
+    int r=5*5;
+    int x=314;
+    int f=r*x;
+    int n=314*2;
+ 
+     System.out.println("Area es igaul" + f );
+      System.out.println("perimetro es igual" + n );
+     
+    }
+}
