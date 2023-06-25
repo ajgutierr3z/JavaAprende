@@ -2,33 +2,29 @@ import java.util.Scanner;
 
 public class Mayor {
 
-    public static void main(String[] args){
+    public static void main(String [] args){
+
+        int num1,num2;
+
         Scanner entrada = new Scanner(System.in);
 
-        int elementos;
-        int mayor=0;
 
-        System.out.println("Ingrese la cantidad de elementos en su arreglo: ");
-        elementos=entrada.nextInt();
-
-        int [] numeros = new int[elementos];
+        System.out.print("Digite 2 numeros enteros por favor: ");
+        num1= entrada.nextInt();
+        num2= entrada.nextInt();
 
 
-        System.out.println("Ingrese los elementos: ");
-        for(int i = 0; i<elementos;i++){
-            System.out.println("Elemento  No. "+(i+1)+" de su arreglo");
-            numeros[i]=entrada.nextInt();
+        if(num1>num2){
+            System.out.println("El numero mayor es el: "+num1);
+        } else if (num1==num2) {
+            System.out.println("Los Numeros tecleados son iguales");
 
-            if(numeros[i]>mayor){
-                mayor=numeros[i];
-
-            }
-
-
+        } else {
+            System.out.println("El numero mayor es el: "+num2);
         }
-        System.out.println("El numero mayor de su arreglo es: "+mayor);
 
     }
+
 
 
 }
