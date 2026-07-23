@@ -5,7 +5,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)
 ![Web3 Certified](https://img.shields.io/badge/Web3-NFT_Certified-8A2BE2?style=for-the-badge&logo=ethereum)
 
-> **Repositorio oficial y ecosistema de desarrollo para el libro *"Aprende Java en siete sesiones"* escrito por el Dr. Alfredo de Jesús Gutiérrez Gómez[cite: 1].**
+
 
 Este proyecto no es solo una colección de scripts; es un entorno de aprendizaje estructurado basado en la separación de conceptos (*Separation of Concerns*). Desde implementaciones por consola hasta arquitecturas GUI y persistencia de datos locales. Ya seas un desarrollador autodidacta o parte de la comunidad académica, este repositorio es tu base de operaciones.
 
