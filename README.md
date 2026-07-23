@@ -31,7 +31,7 @@ JavaAprende/
 ├── 04_entrada_datos_GUI/       # Formularios Swing: JFrame, Event Listeners y Layouts
 ├── 05_base_de_datos/           # Persistencia: Conexión JDBC a SQLite local y operaciones CRUD
 ├── 06_plantillas_UML/          # Arquitectura: Assets y scripts de PlantUML
-├── Galeria_Alumnos/            # Open Source Showcase: Proyectos integradores de la comunidad
+├── Hall Of Fame/               # Open Source Showcase: Proyectos integradores de la comunidad
 └── README.md                   # Documentación principal
 ```
 ---
