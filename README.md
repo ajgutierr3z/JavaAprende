@@ -1,5 +1,5 @@
 # ☕ JavaAprende | Aprende Java en Siete Sesiones
-<h1>JavaAprrende</h1>
+
 ![Java Version](https://img.shields.io/badge/Java-11%2B-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)
@@ -33,3 +33,52 @@ JavaAprende/
 ├── 06_plantillas_UML/          # Arquitectura: Assets y scripts de PlantUML
 ├── Galeria_Alumnos/            # Open Source Showcase: Proyectos integradores de la comunidad
 └── README.md                   # Documentación principal
+```
+---
+
+## 📖 Comunidad Autodidacta
+Si llegaste aquí escaneando los códigos QR del libro, bienvenido a la práctica intensiva.
+Navega a la carpeta correspondiente a la sesión que estás estudiando.
+- Analiza el código, clónalo y ejecútalo en tu entorno local.
+- Aporta a la comunidad: Utiliza la pestaña de Discussions para compartir tus soluciones a los retos, debatir sobre optimización de algoritmos o solicitar revisión de código (Code Review).
+
+---
+
+## 🎓 Open Source Workflow
+Como parte de la formación profesional, tu proyecto final deberá ser integrado a este repositorio siguiendo el flujo de trabajo estándar de la industria tecnológica.
+
+### 🚀 Instrucciones de Integración (Pull Request)
+- Haz un Fork de este repositorio hacia tu cuenta de GitHub.
+- Clona el repositorio bifurcado en tu máquina local:
+
+```bash
+git clone [https://github.com/TU_USUARIO/JavaAprende.git](https://github.com/TU_USUARIO/JavaAprende.git)
+```
+- Navega al directorio Galeria_Alumnos y crea una carpeta con tu nombre de usuario de GitHub (Ej. Galeria_Alumnos/dev_juanperez). Aloja allí todo el código fuente de tu proyecto final.
+- Haz Commit de tus cambios con mensajes descriptivos:
+
+```bash
+git add .
+git commit -m "feat: Integración de sistema de inventario por Juan Perez"
+```
+- Abre un Pull Request (PR) hacia la rama main de este repositorio oficial.
+
+> 🏆 Certificación Web3 (NFT): Una vez que tu código pase la revisión y tu PR sea aceptado (Merged), recibirás un Certificado Web3 (POAP/NFT) inmutable en la blockchain. Esta credencial validará criptográficamente tu capacidad de desarrollo y colaboración en entornos reales ante empleadores tecnológicos.
+
+## ⚙️ Despliegue y Compilación
+- Prerrequisitos
+- [Java Development Kit (JDK) 11 o superior](https://www.oracle.com/java/technologies/downloads/)
+- Git instalado en tu sistema.
+
+## Ejecución desde Terminal (CLI)
+Para compilar y ejecutar cualquier módulo de consola:
+
+```bash
+# 1. Compilar el archivo fuente (Genera el Bytecode .class)
+javac NombreDelArchivo.java
+
+# 2. Ejecutar la Máquina Virtual de Java (JVM)
+java NombreDelArchivo
+```
+
+> Mantenido con 💻 y ☕ por el Dr. Alfredo de Jesús Gutiérrez Gómez y la comunidad de desarrolladores de JavaAprende.
