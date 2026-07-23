@@ -1,2 +1,35 @@
-Este proyecto en git tiene la finalidad de incluir la solución de ejercicios que se
-encuentran en el sitio https://www.frexus.dev
+# ☕ JavaAprende | Aprende Java en Siete Sesiones
+
+![Java Version](https://img.shields.io/badge/Java-11%2B-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)
+![Web3 Certified](https://img.shields.io/badge/Web3-NFT_Certified-8A2BE2?style=for-the-badge&logo=ethereum)
+
+> **Repositorio oficial y ecosistema de desarrollo para el libro *"Aprende Java en siete sesiones"* escrito por el Dr. Alfredo de Jesús Gutiérrez Gómez[cite: 1].**
+
+Este proyecto no es solo una colección de scripts; es un entorno de aprendizaje estructurado basado en la separación de conceptos (*Separation of Concerns*). Desde implementaciones por consola hasta arquitecturas GUI y persistencia de datos locales. Ya seas un desarrollador autodidacta o parte de la comunidad académica, este repositorio es tu base de operaciones.
+
+---
+
+## 📑 Tabla de Contenido
+- [Arquitectura del Repositorio](#-arquitectura-del-repositorio)
+- [Para Lectores (Autodidactas)](#-para-lectores-comunidad-autodidacta)
+- [Para Alumnos Presenciales (Open Source Workflow)](#-para-alumnos-presenciales-open-source-workflow)
+- [Despliegue y Compilación](#-despliegue-y-compilación)
+
+---
+
+## 🏗️ Arquitectura del Repositorio
+
+El código fuente está estructurado de manera modular para garantizar una curva de aprendizaje progresiva y escalable:
+
+```text
+JavaAprende/
+├── 01_ejercicios_basicos/      # Fundamentos: Operadores, variables y condicionales estáticos
+├── 02_entrada_teclado/         # Interactividad CLI: Clase Scanner y ciclos dinámicos
+├── 03_basico_GUI/              # UI Nativa: Implementaciones simples con JOptionPane
+├── 04_entrada_datos_GUI/       # Formularios Swing: JFrame, Event Listeners y Layouts
+├── 05_base_de_datos/           # Persistencia: Conexión JDBC a SQLite local y operaciones CRUD
+├── 06_plantillas_UML/          # Arquitectura: Assets y scripts de PlantUML
+├── Galeria_Alumnos/            # Open Source Showcase: Proyectos integradores de la comunidad
+└── README.md                   # Documentación principal
