@@ -82,4 +82,10 @@ javac NombreDelArchivo.java
 java NombreDelArchivo
 ```
 
-> Mantenido con 💻 y ☕ por el Dr. Alfredo de Jesús Gutiérrez Gómez y la comunidad de desarrolladores de JavaAprende.
+## Licencia y contacto
+
+    Profesor: Alfredo de Jesús Gutiérrez Gómez
+    Blog: frexus.dev
+    Propósito: Exclusivamente educativo.
+    Licencia: MIT (puedes usar el código, pero cita la fuente).
+
