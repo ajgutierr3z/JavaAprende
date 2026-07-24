@@ -27,12 +27,18 @@ El código fuente está estructurado de manera modular para garantizar una curva
 
 ```text
 JavaAprende/
-├── 01_ejercicios_basicos/      # Fundamentos: Operadores, variables y condicionales estáticos
-├── 02_entrada_teclado/         # Interactividad CLI: Clase Scanner y ciclos dinámicos
-├── 03_basico_GUI/              # UI Nativa: Implementaciones simples con JOptionPane
-├── 04_entrada_datos_GUI/       # Formularios Swing: JFrame, Event Listeners y Layouts
-├── 05_base_de_datos/           # Persistencia: Conexión JDBC a SQLite local y operaciones CRUD
-├── 06_plantillas_UML/          # Arquitectura: Assets y scripts de PlantUML
+├── 01_Consola/                 # Fundamentos: Operadores, variables, condicionales, ciclos, uso de scanner
+│   ├── A_Basicos_Operadores/   # Matemáticas cotidianas y conversiones
+│   ├── B_Estructuras_Control/  # Toma de decisiones y reglas de negocio
+│   └── C_Ciclos/               # Repetición automatizada y rangos
+├── 02_Interfaces_GUI/          # UI Nativa: Implementaciones simples con JOptionPane, swing, layauts, entre otros.
+│   ├── A_Ventanas_Emergentes/  # Diálogos con JOptionPane
+│   └── B_Formularios_JFrame/   # Interfaces interactivas (Botones y Cajas de texto)
+├── 03_Persistencia_BD/         # Persistencia: Conexión JDBC a SQLite local y operaciones CRUD
+│   ├── A_Conexion_SQLite/      # Levantamiento de base local
+│   └── B_Operaciones_CRUD/     # Crear, Leer, Actualizar y Borrar registros
+├── 04_Arquitectura_UML/        # Arquitectura: Assets y scripts de PlantUML
+│   └── Scripts_PlantUML/       # Assets y código para diagramas
 ├── Hall Of Fame/               # Open Source Showcase: Proyectos integradores de la comunidad
 └── README.md                   # Documentación principal
 ```
