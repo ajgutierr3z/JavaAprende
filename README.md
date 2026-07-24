@@ -16,7 +16,7 @@ Este proyecto no es solo una colección de scripts; es un entorno de aprendizaje
 - [Autodidactas](#comunidad-autodidacta)
 - [Open Source Workflow](#open-source-workflow)
 - [Despliegue y Compilación](#despliegue-y-compilación)
-- [Ejecución desde Terminal (CLI)](#ejecución-desde-terminal-(cli) )
+- [Ejecución desde Terminal (CLI)](#ejecución-desde-terminal-cli )
 - [Licencia y contacto](#licencia-y-contacto)
 
 ---
