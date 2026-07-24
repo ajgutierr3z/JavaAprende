@@ -13,9 +13,11 @@ Este proyecto no es solo una colección de scripts; es un entorno de aprendizaje
 
 ## 📑 Tabla de Contenido
 - [Arquitectura del Repositorio](#-arquitectura-del-repositorio)
-- [Autodidactas](#-para-lectores-comunidad-autodidacta)
-- [Open Source Workflow](#-para-alumnos-presenciales-open-source-workflow)
+- [Autodidactas](#-comunidad-autodidacta)
+- [Open Source Workflow](#-open-source-workflow)
 - [Despliegue y Compilación](#-despliegue-y-compilación)
+- [Ejecución desde Terminal (CLI)](#-jecucion-desde-terminal-(cli))
+- [Licencia y contacto](#-licencia-y-contacto)
 
 ---
 
