@@ -12,16 +12,16 @@ Este proyecto no es solo una colección de scripts; es un entorno de aprendizaje
 ---
 
 ## 📑 Tabla de Contenido
-- [🏗️ Arquitectura del Repositorio](#🏗️-arquitectura-del-repositorio)
-- [📖 Autodidactas](#📖-comunidad-autodidacta)
-- [🎓 Open Source Workflow](#-open-source-workflow)
-- [⚙️ Despliegue y Compilación](#⚙️-despliegue-y-compilación)
+- [Arquitectura del Repositorio](#arquitectura-del-repositorio)
+- [Autodidactas](#comunidad-autodidacta)
+- [Open Source Workflow](#open-source-workflow)
+- [Despliegue y Compilación](#despliegue-y-compilación)
 - [Ejecución desde Terminal (CLI)](#ejecución-desde-terminal-cli )
 - [Licencia y contacto](#licencia-y-contacto)
 
 ---
 
-## 🏗️ Arquitectura del Repositorio
+## Arquitectura del Repositorio
 
 El código fuente está estructurado de manera modular para garantizar una curva de aprendizaje progresiva y escalable:
 
@@ -38,7 +38,8 @@ JavaAprende/
 ```
 ---
 
-## 📖 Comunidad Autodidacta
+## Comunidad Autodidacta 
+
 Si llegaste aquí escaneando los códigos QR del libro, bienvenido a la práctica intensiva.
 Navega a la carpeta correspondiente a la sesión que estás estudiando.
 - Analiza el código, clónalo y ejecútalo en tu entorno local.
@@ -46,10 +47,11 @@ Navega a la carpeta correspondiente a la sesión que estás estudiando.
 
 ---
 
-## 🎓 Open Source Workflow
+## Open Source Workflow
+
 Como parte de la formación profesional, tu proyecto final deberá ser integrado a este repositorio siguiendo el flujo de trabajo estándar de la industria tecnológica.
 
-### 🚀 Instrucciones de Integración (Pull Request)
+### Instrucciones de Integración (Pull Request)
 - Haz un Fork de este repositorio hacia tu cuenta de GitHub.
 - Clona el repositorio bifurcado en tu máquina local:
 - [Pulsa aquí para ver un vídeo paso a paso para hacer un pull request](https://youtu.be/5N5c-DhA46I)
@@ -67,8 +69,10 @@ git commit -m "feat: Integración de sistema de inventario por Juan Perez"
 - Abre un Pull Request (PR) hacia la rama main de este repositorio oficial. [Pulsa aquí si no sabes hacer un PR](https://youtu.be/5N5c-DhA46I)
 
 
+---
 
-## ⚙️ Despliegue y Compilación
+## Despliegue y Compilación
+
 - Prerrequisitos
 - [Java Development Kit (JDK) 11 o superior](https://www.oracle.com/java/technologies/downloads/)
 - Git instalado en tu sistema.
