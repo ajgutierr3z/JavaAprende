@@ -12,10 +12,10 @@ Este proyecto no es solo una colección de scripts; es un entorno de aprendizaje
 ---
 
 ## 📑 Tabla de Contenido
-- [Arquitectura del Repositorio](#arquitectura-del-repositorio)
-- [Autodidactas](#comunidad-autodidacta)
-- [Open Source Workflow](#open-source-workflow)
-- [Despliegue y Compilación](#despliegue-y-compilación)
+- [🏗️ Arquitectura del Repositorio](#🏗️-arquitectura-del-repositorio)
+- [📖 Autodidactas](#📖-comunidad-autodidacta)
+- [🎓 Open Source Workflow](#🎓-open-source-workflow)
+- [⚙️ Despliegue y Compilación](#⚙️-despliegue-y-compilación)
 - [Ejecución desde Terminal (CLI)](#ejecución-desde-terminal-cli )
 - [Licencia y contacto](#licencia-y-contacto)
 
