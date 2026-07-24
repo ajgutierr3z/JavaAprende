@@ -13,8 +13,8 @@ Este proyecto no es solo una colección de scripts; es un entorno de aprendizaje
 
 ## 📑 Tabla de Contenido
 - [Arquitectura del Repositorio](#-arquitectura-del-repositorio)
-- [Para Lectores (Autodidactas)](#-para-lectores-comunidad-autodidacta)
-- [Para Alumnos Presenciales (Open Source Workflow)](#-para-alumnos-presenciales-open-source-workflow)
+- [Autodidactas](#-para-lectores-comunidad-autodidacta)
+- [Open Source Workflow](#-para-alumnos-presenciales-open-source-workflow)
 - [Despliegue y Compilación](#-despliegue-y-compilación)
 
 ---
@@ -50,6 +50,7 @@ Como parte de la formación profesional, tu proyecto final deberá ser integrado
 ### 🚀 Instrucciones de Integración (Pull Request)
 - Haz un Fork de este repositorio hacia tu cuenta de GitHub.
 - Clona el repositorio bifurcado en tu máquina local:
+- [Pulsa aquí para ver un vídeo paso a paso para hacer un pull request](https://youtu.be/5N5c-DhA46I)
 
 ```bash
 git clone [https://github.com/TU_USUARIO/JavaAprende.git](https://github.com/TU_USUARIO/JavaAprende.git)
@@ -61,9 +62,9 @@ git clone [https://github.com/TU_USUARIO/JavaAprende.git](https://github.com/TU_
 git add .
 git commit -m "feat: Integración de sistema de inventario por Juan Perez"
 ```
-- Abre un Pull Request (PR) hacia la rama main de este repositorio oficial.
+- Abre un Pull Request (PR) hacia la rama main de este repositorio oficial. [Pulsa aquí si no sabes hacer un PR](https://youtu.be/5N5c-DhA46I)
 
-> 🏆 Certificación Web3 (NFT): Una vez que tu código pase la revisión y tu PR sea aceptado (Merged), recibirás un Certificado Web3 (POAP/NFT) inmutable en la blockchain. Esta credencial validará criptográficamente tu capacidad de desarrollo y colaboración en entornos reales ante empleadores tecnológicos.
+
 
 ## ⚙️ Despliegue y Compilación
 - Prerrequisitos
