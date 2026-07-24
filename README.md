@@ -83,9 +83,8 @@ java NombreDelArchivo
 ```
 
 ## Licencia y contacto
-
-    Profesor: Alfredo de Jesús Gutiérrez Gómez
-    [Blog:](https://www.frexus.dev)
-    Propósito: Exclusivamente educativo.
-    Licencia: MIT (puedes usar el código, pero cita la fuente).
+- Profesor: Alfredo de Jesús Gutiérrez Gómez
+- Blog: [frexus](https://www.frexus.dev)
+- Propósito: Exclusivamente educativo.
+- Licencia: MIT (puedes usar el código, pero cita la fuente).
 
