@@ -1,4 +1,4 @@
-# ☕ JavaAprende | Aprende Java en Siete Sesiones
+# ☕ JavaAprende | 
 
 ![Java Version](https://img.shields.io/badge/Java-11%2B-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
